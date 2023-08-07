@@ -1,0 +1,22 @@
+h1,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+ul{
+  list-style: none;
+}
+.card {
+  box-shadow: 0px 0px 5px 1px #00000030;
+}
+.menu-bottom ul li a{
+  color: #3b3b3b;
+}
+.menu-lateral{
+  padding: 0px;
+}
+.menu-lateral li {
+  border-bottom: 1px solid #ededed;
+  width: 100%;
+  padding: 14px;
+}
