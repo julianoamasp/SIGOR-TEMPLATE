@@ -3,7 +3,7 @@ const DESENVOLVIMENTO = "PRODUCAO" // PRODUCAO | DESENVOLVIMENTO
 //desenvolvimento
 const BASE_URL = "http://localhost:3000";
 const BASE_URL_API = "https://gerenciadorprojetos.julianoamasp.com";
-const GOOGLEMAPS_KEY = "AIzaSyBpBq_qJmfJAoIKVsJ9O_j8wmhHeofKg-c";
+const GOOGLEMAPS_KEY = "";
 
 /*
 //Produção
